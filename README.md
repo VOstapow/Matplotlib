@@ -4,9 +4,7 @@
  * Navigate Matplotlib's PyPlot interface.
  * Create line, bar, pie charts, and scatter plots with Matplotlib.
  * Change the appearance of their plots in Matplotlib.
- * Identify basic plot configuration options, such as xlim and ylim, with Matplotlib.
  * Create plots with the DataFrame.plot() method.
- * Summarize the advantages and disadvantages of creating charts with the DataFrame.plot() method.
  * Use Pandas to analyze a complex dataset and chart the corresponding visualizations.
  * Calculate summary statistics, such as mean, median, mode, variance, and standard deviation, with Python.
  * Plot, characterize, and quantify a normally distributed dataset with Python.
