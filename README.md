@@ -1,4 +1,4 @@
-# Module-5-Challenge
+# Module 5 - Matplotlib & Pymaceuticals, Inc.
  This assignment will allow me to practice what I learned in Module 5:
  
  * Navigate Matplotlib's PyPlot interface.
